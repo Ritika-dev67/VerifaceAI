@@ -26,8 +26,6 @@ ResNeXt
 
 LSTM
 
-[Add the libraries and frameworks actually used]
-
 How It Works
 
 The system accepts an image or video as input, processes the media, and passes the extracted visual information to a trained deep learning model. The model generates a prediction indicating whether the media is classified as real or potentially manipulated.
